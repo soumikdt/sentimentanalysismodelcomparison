@@ -2,7 +2,7 @@
 
 ## Classifying Articles into Positive and Negative Sentiments
 
-**Author:** Anindita Basu
+
 
 ---
 
