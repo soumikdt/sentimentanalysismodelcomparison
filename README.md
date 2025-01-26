@@ -98,21 +98,6 @@
 | XGBoost        | 0.99           | 0.86          | 0.88      | 0.94   | 0.91     | 0.80 |
 | CNN            | 0.99           | 0.85          | 0.83      | 0.96   | 0.89     | 0.92 |
 
----
-
-## Accuracy Comparison
-
-![Accuracy Comparison](path_to_accuracy_comparison_image.png)
-
----
-
-## Confusion Matrix (Test) for XGBoost and CNN
-
-![XGBoost Confusion Matrix](path_to_xgboost_confusion_matrix.png)
-
-![CNN Confusion Matrix](path_to_cnn_confusion_matrix.png)
-
----
 
 ## Evaluation Metrics for Models
 
